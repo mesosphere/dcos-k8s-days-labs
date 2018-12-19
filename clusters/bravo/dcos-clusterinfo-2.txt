@@ -1,0 +1,31 @@
+
+[cluster]
+gtri-bravo-2
+
+[cluster-address]
+gtri-bravo-2-991221912.us-east-1.elb.amazonaws.com
+
+User: bootstrapuser
+Pass: deleteme
+
+[bootstrap]
+18.234.74.142
+
+[masters]
+34.228.212.48
+
+[private-agents]
+52.90.81.18
+100.26.147.188
+52.201.228.32
+34.224.156.130
+54.198.39.53
+18.232.187.147
+
+[public-agents]
+3.81.215.177
+35.175.118.97
+
+[public-agent-lb]
+ext-gtri-bravo-2-2077115250.us-east-1.elb.amazonaws.com
+

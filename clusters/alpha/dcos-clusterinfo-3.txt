@@ -1,0 +1,31 @@
+
+[cluster]
+gtri-alpha-3
+
+[cluster-address]
+gtri-alpha-3-1134313930.us-east-1.elb.amazonaws.com
+
+User: bootstrapuser
+Pass: deleteme
+
+[bootstrap]
+54.225.59.91
+
+[masters]
+54.197.208.247
+
+[private-agents]
+3.81.233.72
+100.26.3.186
+100.24.53.133
+54.91.231.110
+54.237.107.95
+3.83.185.210
+
+[public-agents]
+35.171.187.34
+100.24.123.104
+
+[public-agent-lb]
+ext-gtri-alpha-3-1261568191.us-east-1.elb.amazonaws.com
+

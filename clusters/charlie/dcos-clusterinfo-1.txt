@@ -1,31 +1,31 @@
 
 [cluster]
-broadridge-charlie-1
+gtri-charlie-1
 
 [cluster-address]
-broadridge-charlie-1-944731416.us-east-1.elb.amazonaws.com
+gtri-charlie-1-391582993.us-east-1.elb.amazonaws.com
 
 User: bootstrapuser
 Pass: deleteme
 
 [bootstrap]
-54.174.136.193
+3.81.47.173
 
 [masters]
-54.175.101.249
+54.197.214.181
 
 [private-agents]
-52.90.141.243
-35.172.232.10
-18.212.72.113
-34.234.69.61
-100.25.157.203
-18.232.119.165
+54.88.205.85
+18.209.245.91
+18.206.158.105
+54.165.189.100
+54.226.16.245
+34.237.53.107
 
 [public-agents]
-52.90.143.124
-34.237.1.129
+34.204.92.175
+35.171.225.85
 
 [public-agent-lb]
-ext-broadridge-charlie-1-1669324292.us-east-1.elb.amazonaws.com
+ext-gtri-charlie-1-1045836286.us-east-1.elb.amazonaws.com
 

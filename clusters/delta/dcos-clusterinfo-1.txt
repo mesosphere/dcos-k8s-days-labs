@@ -1,31 +1,31 @@
 
 [cluster]
-broadridge-delta-1
+gtri-delta-1
 
 [cluster-address]
-broadridge-delta-1-1062963488.us-east-1.elb.amazonaws.com
+gtri-delta-1-1531828796.us-east-1.elb.amazonaws.com
 
 User: bootstrapuser
 Pass: deleteme
 
 [bootstrap]
-34.229.251.37
+3.81.94.205
 
 [masters]
-18.206.188.243
+54.152.250.194
 
 [private-agents]
-18.232.114.153
-35.170.55.27
-100.26.184.199
-34.236.143.75
-52.73.34.121
-35.171.45.45
+52.90.64.25
+18.232.146.203
+18.212.36.17
+3.80.218.230
+3.80.18.185
+18.206.238.78
 
 [public-agents]
-54.172.97.100
-34.205.85.0
+35.174.11.59
+100.24.124.119
 
 [public-agent-lb]
-ext-broadridge-delta-1-1496885370.us-east-1.elb.amazonaws.com
+ext-gtri-delta-1-1652596783.us-east-1.elb.amazonaws.com
 
