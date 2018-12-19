@@ -1,0 +1,31 @@
+
+[cluster]
+gtri-zulu-1
+
+[cluster-address]
+gtri-zulu-1-1746753176.us-east-1.elb.amazonaws.com
+
+User: bootstrapuser
+Pass: deleteme
+
+[bootstrap]
+54.145.191.208
+
+[masters]
+52.90.17.54
+
+[private-agents]
+52.90.69.242
+100.27.43.26
+3.83.143.184
+54.221.85.58
+100.25.23.211
+18.210.28.183
+
+[public-agents]
+34.201.139.118
+34.201.3.30
+
+[public-agent-lb]
+ext-gtri-zulu-1-1706136569.us-east-1.elb.amazonaws.com
+
